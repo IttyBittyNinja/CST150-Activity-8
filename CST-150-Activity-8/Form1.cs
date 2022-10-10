@@ -1,3 +1,5 @@
+// Jared L. Abrams// CST-150// October 9, 2022// This is my own work
+
 namespace CST_150_Activity_8
 {
     public partial class Form1 : Form
